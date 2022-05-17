@@ -1,6 +1,7 @@
 - 👋 Hi, I'm GG!
 - 🌱 I’m currently learning Swift and Java
 - 💞️ I’m looking to collaborate on small iOS projects for beginners...
+- 💻 https://ittingz.tistory.com/
 - 📫 How to reach me ggbetterus@gmail.com...
 
 <!---
