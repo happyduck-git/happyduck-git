@@ -4,10 +4,10 @@
 </a>
  <br>
   <br>
-- 🌱 I’m currently learning Swift and Java
-- 💞️ I’m looking to collaborate on small iOS projects for beginners...
-- 💻 https://ittingz.tistory.com/
-- 📫 How to reach me ggbetterus@gmail.com...
+- 🌱 I’m currently learning Swift and Java<br>
+- 💞️ I’m looking to collaborate on small iOS projects for beginners...<br>
+- 💻 https://ittingz.tistory.com/<br>
+- 📫 How to reach me ggbetterus@gmail.com...<br>
 
 <!---
 happyduck-git/happyduck-git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
