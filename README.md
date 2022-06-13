@@ -1,4 +1,9 @@
-- 👋 Hi, I'm GG!
+ <h1> 👋 Hi, I'm GG! </h1>
+ <a href = "https://www.linkedin.com/in/gagyoung-shin-97b261229/"> 
+    <img align="left" alt="GG's Linked in" width = "30px" src="https://iconarchive.com/download/i75878/martz90/circle/linkedin.ico"/>
+</a>
+ <br>
+  <br>
 - 🌱 I’m currently learning Swift and Java
 - 💞️ I’m looking to collaborate on small iOS projects for beginners...
 - 💻 https://ittingz.tistory.com/
