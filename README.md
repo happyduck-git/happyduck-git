@@ -1,5 +1,4 @@
  <h2> 👋 Hi, I'm GG. </h2>
- <h5> iOS Developer</h5>
  <h3> Passionately Driven by Learning and Committed to High Quality </h3>
 <p> 
  
