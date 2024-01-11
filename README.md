@@ -1,13 +1,13 @@
  <h2> 👋 Hi, I'm GG </h2>
  <h3> iOS Developer using Swift. </h3>
-<p>
-  Mainly use `UIKit`, also love to use `SwiftUI`.
-<br>
-  Time and promise is essential value when working with others. Therefore, I `complete tasks in a given time with good quality`.
-<br>
-  I do care for writing `maintainable and readable codes` for the future scalability.
- <br>
-  To acheive maintanable and readable codes, I try to optimize my codes with:
+<p> 
+ 
+ Mainly use `UIKit`, also love to use `SwiftUI`
+<br> Time and promise is essential value when working with others.
+<br> Therefore, I `complete tasks in a given time` with `good quality`.
+<br> I do care for writing `maintainable` and `readable codes` for the future scalability.
+
+  To acheive maintanable and readable codes, I optimize my codes with:
 <li>MVVM pattern</li>
 <li>Protocols</li>
 <li>OOP principles(encapsulation, inheritances, etc.)</li>
