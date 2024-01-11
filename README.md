@@ -1,5 +1,5 @@
- <h3> 👋 Hi, I'm GG </h3>
- <h4> iOS Developer using Swift. </h4>
+ <h2> 👋 Hi, I'm GG </h2>
+ <h3> iOS Developer using Swift. </h3>
 <p>
   Mainly use <strong>UIKit</strong>, also love to use <strong>SwiftUI</strong>.
 <br>
