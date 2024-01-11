@@ -32,7 +32,9 @@ Thank you for reading!
 <p></p>
  
  <a href = "https://www.linkedin.com/in/gagyoung-shin-97b261229/"> ![Static Badge](https://img.shields.io/badge/LinkedIn-white?logo=linkedin&labelColor=%230A66C2)
- </a> &nbsp; &nbsp; <a href = "https://ittingz.tistory.com/"> ![Static Badge](https://img.shields.io/badge/Tech_Journal-white?logo=tistory&labelColor=%23000000)
+ </a> 
+ <br>
+  <a href = "https://ittingz.tistory.com/"> ![Static Badge](https://img.shields.io/badge/Tech_Journal-white?logo=tistory&labelColor=%23000000)
  </a>
 </p>
  
