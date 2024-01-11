@@ -1,12 +1,12 @@
- <h2> 👋 Hi, I'm GG </h2>
- <h3> iOS Developer using Swift. </h3>
+ <h2> 👋 Hi, I'm GG. </h2>
+ <h5> iOS Developer</h5>
+ <h3> Passionately Driven by Learning and Committed to High Quality </h3>
 <p> 
  
  Mainly use `UIKit`, also love to use `SwiftUI`.
-
 <br> Time and promise are essential values when working with others.
-<br> Therefore, I `complete tasks in a given time` with `good quality`.
-<br> I do care for writing `maintainable` and `readable codes` for the future scalability.
+Therefore, I `complete tasks in a given time` with `good quality`.
+<br> I care for writing `maintainable` and `readable codes` for the future scalability.
 
   To acheive maintainable and readable codes, I optimize my codes by adopting:
 <li>MVVM pattern, Protocols, OOP principles</li>
