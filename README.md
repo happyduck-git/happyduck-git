@@ -8,10 +8,8 @@
 <br> Therefore, I `complete tasks in a given time` with `good quality`.
 <br> I do care for writing `maintainable` and `readable codes` for the future scalability.
 
-  To acheive maintainable and readable codes, I optimize my codes with:
-<li>MVVM pattern</li>
-<li>Protocols</li>
-<li>OOP principles(encapsulation, inheritances, etc.)</li>
+  To acheive maintainable and readable codes, I optimize my codes by adopting:
+<li>MVVM pattern, Protocols, OOP principles</li>
 </p> 
 <p>
 I try not to depend heavily on 3rd party frameworks unless they are very essenstial to my projects. 
