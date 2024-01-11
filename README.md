@@ -16,10 +16,7 @@
 I try not to depend heavily on 3rd party frameworks unless they are very essenstial to my projects. 
 <br>
  Still there some that I always feel thanksful for:
-<li>Nuke</li> 
-<li>Gifu</li> 
-<li>Lottie</li> 
-<li>Rxswift</li> 
+<li>Nuke, Gifu, Lottie, RxSwift, Firebase, Supabase</li>
   
 </p>
 <p>
