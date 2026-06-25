@@ -1,4 +1,4 @@
- <h2>👋 Hi, I'm GG (Gagyoung Shin)</h2>
+ <h2>👋 Hi, I'm GG </h2>
 
   <p>
   <strong>I build apps to make everyday life a little easier.</strong> I'm always collecting ideas
