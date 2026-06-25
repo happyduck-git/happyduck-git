@@ -1,39 +1,31 @@
- <h2> 👋 Hi, I'm GG. </h2>
- <h3> Passionately Driven by Learning and Committed to High Quality </h3>
-<p> 
- 
- Mainly use `UIKit`, also love to use `SwiftUI`.
-<br> Time and promise are essential values when working with others.
-Therefore, I `complete tasks in a given time` with `good quality`.
-<br> I care for writing `maintainable` and `readable codes` for the future scalability.
+ <h2>👋 Hi, I'm GG (Gagyoung Shin)</h2>
 
-  To acheive maintainable and readable codes, I optimize my codes by adopting:
-<li>MVVM pattern, Protocols, OOP principles</li>
-</p> 
-<p>
-I try not to depend heavily on 3rd party frameworks unless they are very essenstial to my projects. 
-<br>
- Still there some that I always feel thankful for:
-<li>Nuke, Gifu, Lottie, RxSwift, Firebase, Supabase</li>
+  <p>
+  <strong>I build apps to make everyday life a little easier.</strong> I'm always collecting ideas
+  from things around me, looking for software that genuinely helps people — and then shipping it.
+  </p>
+
+  <p>
+   Mainly iOS, but also interested in multi platform softwares.
+  </p>
+
+  <h3> Currently working on</h3>
+  <ul>
+    <li><strong>Weather Island</strong> — Weather app supports Live Activity & widgets</li>
+    <li><strong>RetroNote</strong> — CRT-styled cross-platform note(& secretly chat) app</li>
+    <li><strong>DotDo</strong> — Todo menubar app</li>
+  </ul>
   
-</p>
-<p>
-Also interested in VisionOS. Love to hear and share about the knowledge  
-<br>
-Thank you for reading!
-</p>
-
-<p>
- <h4> Contacts  </h4>
-<strong>Email</strong>: ggbetterus@gmail.com
-<p></p>
- 
- <a href = "https://www.linkedin.com/in/gagyoung-shin-97b261229/"> ![Static Badge](https://img.shields.io/badge/LinkedIn-white?logo=linkedin&labelColor=%230A66C2)
- </a> 
- <br>
-  <a href = "https://ittingz.tistory.com/"> ![Static Badge](https://img.shields.io/badge/Tech_Journal-white?logo=tistory&labelColor=%23000000)
- </a>
-</p>
+  <h3> Reach me</h3>
+  <p><strong>Email</strong>: ggbetterus@gmail.com</p>
+  <p>
+    <a href="https://www.linkedin.com/in/gagyoung-shin-97b261229/">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="https://ittingz.tistory.com/">
+      <img src="https://img.shields.io/badge/Tech_Journal-000000?logo=tistory&logoColor=white" alt="Tech Journal">
+    </a>
+  </p>
  
 
 <!---
