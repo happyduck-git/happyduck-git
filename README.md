@@ -2,9 +2,8 @@
 
   <p>
   <strong>I build apps to make everyday life a little easier.</strong> I'm always collecting ideas
-  from things around me, looking for software that genuinely helps people — and then shipping it.
+  from things around me, looking for software that genuinely helps our daily lives.
   </p>
-
   <p>
    Mainly iOS, but also interested in multi platform softwares.
   </p>
