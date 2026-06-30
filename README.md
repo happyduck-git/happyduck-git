@@ -18,14 +18,6 @@
   
   <h3> Reach me</h3>
   <p><strong>Email</strong>: ggbetterus@gmail.com</p>
-  <p>
-    <a href="https://www.linkedin.com/in/gagyoung-shin-97b261229/">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="https://ittingz.tistory.com/">
-      <img src="https://img.shields.io/badge/Tech_Journal-000000?logo=tistory&logoColor=white" alt="Tech Journal">
-    </a>
-  </p>
  
 
 <!---
